@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mode"
+        android:icon="@drawable/ic_mode_icon_sun"
+        android:title="@string/mode_title"
+        app:showAsAction="ifRoom"
+        android:contentDescription="@string/mode_description" />
+</menu>
